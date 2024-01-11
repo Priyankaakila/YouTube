@@ -1,0 +1,151 @@
+header{
+    margin-top: -15px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    border: 2px solid transparent;
+    margin-bottom: 5px;
+}
+header i,a{
+    display: inline-block;
+}
+a{
+    margin-left: -3px;
+    text-decoration: none;
+    color: black;
+}
+.srch{
+    display: inline-block;
+    margin-left: 25s0px;
+    width: 500px;
+    border: 1px solid rgb(227, 219, 219);
+    border-radius: 20px;
+    margin-top: 15px;
+    padding: 8px;
+    margin-left: 370px;
+}
+input{
+    width: 350px;
+    margin-left: 20px;
+    margin-right: 75px;
+    font-size: 16px;
+    border: none;
+    outline: none;
+}
+.mic i{
+    background-color: rgb(227, 219, 219) ;
+}
+.mic i:hover{
+    background-color:  rgb(204, 200, 200) ;
+}
+.user{
+    color: blue;
+    border: 1px solid rgb(227, 219, 219);
+    padding: 5px;
+    border-radius: 30px;
+    margin-left: 25px;
+}
+.user:hover{
+    background-color: rgb(181, 212, 244);
+}
+.sec1{
+    margin-top: 10px;
+    width:220px ;
+    overflow-y: scroll;
+    font-size: 15px;
+}
+.sec1 a{
+    text-decoration:none ;
+    color: black;
+    border: 1px solid gray;
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+    margin-left: 10px;
+    width: 160px;
+}
+.sec1 a i{
+    margin-right: 25px;
+    padding: 5px;
+}
+.sec1 a:hover{
+    background-color: rgb(225, 223, 223);
+}
+.sec1 p{
+    text-align: center;
+}  
+.signin a{
+    color: blue;
+    border: 1px solid rgb(227, 219, 219);
+    padding: 5px;
+    border-radius: 30px;
+    margin-left: 40px;
+    width: 80px;
+}
+.signin a:hover{
+    background-color: rgb(181, 212, 244);
+    } 
+img{
+    width: 20px;
+    height: 22px;
+    margin-right: 25px;
+}
+span{
+    vertical-align: super;
+}
+h3{
+    margin-left: 20px;
+}
+.head{
+    margin-top: -1280px;
+    margin-left: 270px;
+}
+.head a:not(.sym){
+    text-decoration:none ;
+    color: black;
+    border: 1px solid gray;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgb(227, 224, 224) ;
+    border: none;
+    margin-left: 10px;
+}
+.sym i{
+    margin-left: 20px;
+}
+.head a:hover:not(.sym){
+    background-color: rgb(204, 200, 200) ;
+}
+.cont1,.cont2,.cont3{
+    display: flex;
+    margin-left: 20px;
+}
+iframe{
+    margin-top: 20px;
+    /* margin-left: 260px; */
+    border-radius: 20px;
+}
+.content p{
+    width: 270px;
+    height: auto;
+    font-size: 16px;
+    text-align: justify;
+    /* margin-left: 265px; */
+}
+.i1,.i5,.i9{
+    margin-left: 260px;
+}
+.i2,.i3,.i4,.i6,.i7,.i8,.i10,.i11,.i12{
+    margin-left: 30px;
+}
+.copyrights{
+    font-size: 12.5px;
+    text-align: left;
+    color: rgb(111, 109, 109);
+}
+.copyrights span{
+    color: rgb(114, 108, 108);
+}
+
+
